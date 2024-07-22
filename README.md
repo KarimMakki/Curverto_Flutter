@@ -1,16 +1,28 @@
-# curverto_flutter
+<img src="https://github.com/KarimMakki/Exchange_Rates_App/assets/91680756/53b6c70e-adeb-4506-b841-e11e4635aae5" alt="Screenshot3" width="100%"/>
 
-A new Flutter project.
+<hr>
 
-## Getting Started
+# **CurVerto - Currency Converter App**
 
-This project is a starting point for a Flutter application.
+Easily manage your finances and stay up-to-date with real-time exchange rates using our Currency Converter App. Whether you're traveling, shopping online, or tracking international investments, our app ensures you get the most accurate and current rates for almost all global currencies.
 
-A few resources to get you started if this is your first Flutter project:
+Key Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Comprehensive Currency Coverage: Access exchange rates for nearly every currency worldwide, ensuring you always get the information you need.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Real-Time Updates: Get the latest exchange rates in real-time, so you can make informed decisions without any delays.
+
+User-Friendly Search: Quickly find the exact currency you're looking for with our intuitive search feature, saving you time and hassle.
+
+Night Mode: Enjoy a comfortable viewing experience in low light conditions with our stylish and eye-friendly night mode.
+
+Stay informed and make smarter financial decisions with our all-in-one currency converter. Download now and experience the convenience!
+
+## Setup
+
+To run this project, you will need to add your own Exchangerate API key. Follow these steps:
+
+1. Rename .env.example file to .env.
+2. Add your Exchangerate API key
+
+
